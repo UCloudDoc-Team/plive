@@ -9,3 +9,7 @@
 * [保利威云直播UCloud专享版是什么](/introduction)
 
 ## [产品价格](plive//price)
+* [计费说明](/plive/price/index)
+* [时长套餐包 说明](/plive/price/prepay)
+* [时长套餐包 购买指南](/plive/price/PrepayGuide)
+* [时长套餐包 退费说明](/plive/price/refund)
