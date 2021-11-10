@@ -7,6 +7,8 @@
 * [保利威云直播UCloud专享版是什么](plive/introduction)
 
 ## 产品价格
+
+UCloud为用户提供2000分钟云直播免费测试额度，您可以在7日内体验云直播的试用版的功能，如需技术支持，请点击[在线咨询](https://spt.ucloud.cn/)。    
 * [计费说明](/plive/price/index)
 * [时长套餐包 说明](/plive/price/prepay)
 * [时长套餐包 购买指南](/plive/price/PrepayGuide)
